@@ -1,5 +1,13 @@
 # CLAUDE.md — tls-react-lab
 
+# Version: 1.0
+
+# Status: testing
+
+# Last updated: 2026-05-19
+
+This file is used in tls-react-lab, a public-safe React + TypeScript lab project for testing CLAUDE.md patterns, Claude Skills, and AI code review workflows.
+
 ## Project context
 
 `tls-react-lab` is a small public-safe React + TypeScript lab project for **The Last Sprint** content. It exists to test CLAUDE.md patterns, Claude Skills, AI code review workflows, refactor patterns, and testing rules.
